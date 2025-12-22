@@ -1,12 +1,14 @@
-# Điện Máy Huy Yến Hướng dẫn cài chặn quảng cáo cho TV sansung !
+# Điện Máy Huy Yến Hướng dẫn cài chặn quảng cáo cho TV samsung !
 
 Dưới đây là phần tóm tắt cách làm, và phần chi tiết cách làm. 
 
 ### Tóm Tắt cách làm:
-* **Tải và cài file giả lập** https://f-droid.org/F-Droid.apk
-* **Cài Termux** https://f-droid.org/en/packages/com.termux/
+* **Tải và cài file giả lập**
+* https://f-droid.org/F-Droid.apk
+* **Cài Termux**
+* https://f-droid.org/en/packages/com.termux/
 * 
-*  Dán vào Termux lần lượt như sau:
+*  **Dán vào Termux lần lượt như sau:**
 * pkg update && pkg upgrade
 * ------------------------------------------------
 * pkg install nodejs
@@ -27,7 +29,7 @@ Dưới đây là phần tóm tắt cách làm, và phần chi tiết cách làm
 * node index.js
 
 * ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-* xong ===== > copy phần ( http://localhost:x000 )      và dán vào trình duyệt
+* **xong ===== > copy phần ( http://localhost:x000 )      và dán vào trình duyệt**
 
 
 
@@ -37,7 +39,7 @@ Dưới đây là phần tóm tắt cách làm, và phần chi tiết cách làm
 
 
 
-### hướng dẫn chi tiết:
+### Hướng dẫn chi tiết:
 ### Tổng quan cách làm (để bạn dễ hình dung)
 
 * Điện thoại Android đóng vai trò như máy tính
@@ -47,7 +49,7 @@ Dưới đây là phần tóm tắt cách làm, và phần chi tiết cách làm
 *
 *
 *
-* PHẦN 1: Chuẩn bị trước
+* **PHẦN 1: Chuẩn bị trước**
 * 1️⃣ Trên TV Samsung
 * Vào Cài đặt (Settings)
 * Chọn Hỗ trợ (Support) → Giới thiệu TV
@@ -66,7 +68,7 @@ Dưới đây là phần tóm tắt cách làm, và phần chi tiết cách làm
 * KHÔNG cài Termux trên CH Play
 * Tải từ F-Droid (bản chính thức, chạy ổn)
 * Sau khi cài, mở Termux lên
-* PHẦN 2: Cài công cụ cần thiết trong Termux
+* **PHẦN 2: Cài công cụ cần thiết trong Termux**
 *
 *
 * 3️⃣ Cập nhật Termux
@@ -85,7 +87,7 @@ Dưới đây là phần tóm tắt cách làm, và phần chi tiết cách làm
 * 👉 Git dùng để tải mã nguồn TizenBrew Installer
 
 
-* PHẦN 3: Tải và build TizenBrew Installer
+* **PHẦN 3: Tải và build TizenBrew Installer**
 
 * 6️⃣ Tải TizenBrew Installer
 * git clone https://github.com/reisxd/TizenBrewInstaller.git
@@ -114,7 +116,7 @@ Dưới đây là phần tóm tắt cách làm, và phần chi tiết cách làm
 *
 *
 
-* PHẦN 4: Chạy TizenBrew Installer
+* **PHẦN 4: Chạy TizenBrew Installer**
 *1️⃣1️⃣ Chạy service
 * npm start
 * Nếu thành công, bạn sẽ thấy thông báo server đang chạy (ví dụ cổng 3000).
@@ -127,7 +129,7 @@ Dưới đây là phần tóm tắt cách làm, và phần chi tiết cách làm
 *
 *
 
-*PHẦN 5: Cài TizenTube lên TV
+* **PHẦN 5: Cài TizenTube lên TV**
 *1️⃣3️⃣ Kết nối với TV
 * Trong giao diện TizenBrew:
 * Nhập IP của TV Samsung
@@ -140,7 +142,7 @@ Dưới đây là phần tóm tắt cách làm, và phần chi tiết cách làm
 *
 *
 
-* LƯU Ý QUAN TRỌNG
+* **LƯU Ý QUAN TRỌNG**
 
 * ❗ Mỗi lần tắt nguồn TV hoàn toàn, app cài ngoài có thể bị mất → cần cài lại
 * ✔️ Nên để TV ở chế độ Standby, không rút điện
