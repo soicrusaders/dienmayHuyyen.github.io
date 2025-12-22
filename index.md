@@ -26,8 +26,8 @@ Dưới đây là phần tóm tắt cách làm, và phần chi tiết cách làm
 * ------------------------------------------------
 * node index.js
 
-
-* copy phần ( http://localhost:x000 )      và dán vào trình duyệt
+* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+* xong ===== > copy phần ( http://localhost:x000 )      và dán vào trình duyệt
 
 
 
