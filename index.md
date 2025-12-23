@@ -6,7 +6,7 @@ Dưới đây là phần tóm tắt cách làm, và phần chi tiết cách làm
 * **Tải và cài file giả lập**
 * https://f-droid.org/F-Droid.apk
 * **Cài Termux**
-* https://f-droid.org/en/packages/com.termux/
+* https://f-droid.org/repo/com.termux_1022.apk
 * 
 *  **Dán vào Termux lần lượt như sau:**
 * pkg update && pkg upgrade
