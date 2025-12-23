@@ -18,7 +18,6 @@ Dưới đây là phần tóm tắt cách làm, và phần chi tiết cách làm
 * git clone https://github.com/reisxd/TizenBrewInstaller.git
 * ---------------------------------------------------
 * cd TizenBrewInstaller/client/ui
-* -----------------------------------------------
 * npm install --force
 * npm run build
 * -----------------------------------------------
@@ -97,9 +96,6 @@ Dưới đây là phần tóm tắt cách làm, và phần chi tiết cách làm
 
 *7️⃣ Vào thư mục giao diện (UI)
 * cd TizenBrewInstaller/client/ui
-*
-*
-*8️⃣ Cài thư viện và build giao diện
 * npm install --force
 * npm run build
 *⏳ Bước này hơi lâu (2–5 phút), đợi chạy xong không báo lỗi
