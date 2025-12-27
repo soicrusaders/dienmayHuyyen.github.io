@@ -4,7 +4,7 @@ Dưới đây là phần tóm tắt cách làm, và phần chi tiết cách làm
 
 ### Tóm Tắt cách làm:
 ** đăng kí tài khoản Samsung mới: 
-* https://account.samsung.com/iam/sign-in/galaxy-device
+* https://account.samsung.com/iam/oauth2/authorize?client_id=3hf187u246&redirect_uri=https%3A%2F%2Fwww.samsung.com%2Faemapi%2Fv6%2Fdata-login%2FafterLogin.vn.json&response_type=code&scope=&state=GLBtzhiep8&locale=vi-VN
 
 * **Tải và cài file giả lập**
 * https://f-droid.org/F-Droid.apk
